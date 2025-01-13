@@ -1,19 +1,61 @@
-### Hi there, I am Guru Prasad 👋
+# Hi there! 👋 I'm Guru Prasad Raveendran
 
-#### I am a student developer, product manager and an open-source Python enthusiast with a special focus on applications which are focused on industry problems and scientific computing. 
-##### Well versed with Agile Framework and has previously worked as Innovation Associate on an open-source ventilator project and Lead Communicator on an innovation proposal presented to the Indian Air Force. 
+### 🚀 Product Manager | 📊 Data-Driven Decision Maker | 🛠️ Technical Product Development
 
-<!--
-**guru-prasad25/guru-prasad25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Product Manager passionate about user experience optimization, data-driven product development, and building scalable solutions. Currently working at Smartlead, focusing on infrastructure and user activation improvements.
 
-Here are some ideas to get you started:
+## 🎯 Current Focus
+- Leading end-to-end development of Multi-tenant Infrastructure features
+- Optimizing user onboarding experiences through data-driven implementations
+- Building safety protocols for critical service deployments
+- Developing systematic approaches for user feedback collection and product roadmap creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Journey
+- **Smartlead** - Associate Product Manager
+  - Led multi-tenant infrastructure development
+  - Improved activation rates by 1.4%
+  - Implemented safety protocols for critical releases
+
+- **AssetPlus** - Associate Product Manager
+  - Developed Term Insurance feature integration
+  - Launched successful client referral program
+  - Enhanced partner retention through digital adoption
+
+- **Mobile Premier League (MPL)** - Product Management Intern
+  - Drove international market expansion
+  - Developed ML-based churn prediction
+  - Established product analytics frameworks
+
+- **Rapido** - Product Manager Intern
+  - Managed Rapido Rentals roadmap
+  - Increased user engagement by 22%
+  - Reduced cancellations by 15%
+
+## 🛠️ Technical Stack
+- **Product Analytics:** SQL, Python, Tableau
+- **Design Tools:** Figma
+- **Data Science:** R, TensorFlow, Scikit-Learn
+- **Methodologies:** Agile, Scrum, A/B Testing
+
+## 📚 Latest Learning
+- Intermediate R (Datacamp)
+- Tidyverse
+- Google Data Analytics
+- Market Research and Consumer Behavior
+
+## 🌟 Key Achievements
+- Drove 1M INR in new client transactions through referral program
+- Reduced Customer Lifecycle Management costs by 30%
+- Improved user engagement metrics by 22%
+- Successfully led cross-functional teams in multiple organizations
+
+## 📫 Let's Connect!
+- 📧 Email: rguruprasad.25@gmail.com
+- 💼 LinkedIn: [Guru Prasad R](https://www.linkedin.com/in/guru-prasad-r)
+- 📞 Phone: +91-9994159689
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+💡 Check out my repositories below for product management frameworks, analytics tools, and technical documentation!
