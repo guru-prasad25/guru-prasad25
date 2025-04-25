@@ -53,9 +53,3 @@ I'm a Product Manager passionate about user experience optimization, data-driven
 - 📧 Email: rguruprasad.25@gmail.com
 - 💼 LinkedIn: [Guru Prasad R](https://www.linkedin.com/in/guru-prasad-r)
 - 📞 Phone: +91-9994159689
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-💡 Check out my repositories below for product management frameworks, analytics tools, and technical documentation!
